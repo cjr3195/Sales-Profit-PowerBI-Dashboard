@@ -1,4 +1,3 @@
-# Sales-Profit-PowerBI-Dashboard
 # Sales & Profit Performance Dashboard
 
 ## Overview
